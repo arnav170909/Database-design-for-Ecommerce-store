@@ -1,0 +1,151 @@
+product_id,product_name,category,price,stock
+1,Wireless Mouse Model 1,Electronics,7027.1,114
+2,Mechanical Keyboard Model 2,Electronics,11421.38,144
+3,Headphones Model 3,Electronics,8248.83,20
+4,Smart Watch Model 4,Electronics,21735.67,43
+5,Webcam Model 5,Electronics,18299.94,137
+6,Bluetooth Speaker Model 6,Electronics,15907.16,198
+7,USB-C Cable Model 7,Accessories,9019.1,36
+8,Laptop Stand Model 8,Accessories,19912.18,121
+9,Phone Case Model 9,Accessories,5523.18,129
+10,Power Bank Model 10,Accessories,20638.53,146
+11,Screen Protector Model 11,Accessories,6785.84,92
+12,Desk Lamp Model 12,Home,8509.44,167
+13,Water Bottle Model 13,Home,3350.93,144
+14,Storage Box Model 14,Home,19728.55,194
+15,Cushion Model 15,Home,19079.89,31
+16,Wall Clock Model 16,Home,2578.51,137
+17,T-Shirt Model 17,Fashion,504.42,60
+18,Backpack Model 18,Fashion,11087.46,20
+19,Wallet Model 19,Fashion,24796.76,129
+20,Sneakers Model 20,Fashion,5136.93,196
+21,Sunglasses Model 21,Fashion,22744.15,186
+22,Python Programming Book Model 22,Books,7615.75,90
+23,SQL Guide Model 23,Books,2423.26,112
+24,Data Science Handbook Model 24,Books,6333.94,115
+25,Novel Model 25,Books,16645.93,186
+26,Notebook Model 26,Books,4220.74,121
+27,Wireless Mouse Model 27,Electronics,15677.17,199
+28,Mechanical Keyboard Model 28,Electronics,18905.04,129
+29,Headphones Model 29,Electronics,16421.24,200
+30,Smart Watch Model 30,Electronics,2469.17,74
+31,Webcam Model 31,Electronics,11971.96,53
+32,Bluetooth Speaker Model 32,Electronics,14882.21,152
+33,USB-C Cable Model 33,Accessories,17031.25,22
+34,Laptop Stand Model 34,Accessories,299.77,107
+35,Phone Case Model 35,Accessories,20445.83,128
+36,Power Bank Model 36,Accessories,17381.07,142
+37,Screen Protector Model 37,Accessories,1862.7,118
+38,Desk Lamp Model 38,Home,2323.43,46
+39,Water Bottle Model 39,Home,2668.82,114
+40,Storage Box Model 40,Home,22036.51,55
+41,Cushion Model 41,Home,9629.14,54
+42,Wall Clock Model 42,Home,16074.89,193
+43,T-Shirt Model 43,Fashion,3656.18,155
+44,Backpack Model 44,Fashion,14125.51,176
+45,Wallet Model 45,Fashion,16285.15,132
+46,Sneakers Model 46,Fashion,8843.93,74
+47,Sunglasses Model 47,Fashion,15738.82,58
+48,Python Programming Book Model 48,Books,23005.28,177
+49,SQL Guide Model 49,Books,17195.18,75
+50,Data Science Handbook Model 50,Books,2257.62,45
+51,Novel Model 51,Books,3585.47,51
+52,Notebook Model 52,Books,14779.98,118
+53,Wireless Mouse Model 53,Electronics,8852.59,129
+54,Mechanical Keyboard Model 54,Electronics,7930.46,55
+55,Headphones Model 55,Electronics,6269.13,185
+56,Smart Watch Model 56,Electronics,2196.88,161
+57,Webcam Model 57,Electronics,15064.48,175
+58,Bluetooth Speaker Model 58,Electronics,7193.81,196
+59,USB-C Cable Model 59,Accessories,766.95,188
+60,Laptop Stand Model 60,Accessories,21907.97,72
+61,Phone Case Model 61,Accessories,12991.47,150
+62,Power Bank Model 62,Accessories,4796.49,120
+63,Screen Protector Model 63,Accessories,7458.29,33
+64,Desk Lamp Model 64,Home,19616.44,81
+65,Water Bottle Model 65,Home,12422.2,48
+66,Storage Box Model 66,Home,6102.18,183
+67,Cushion Model 67,Home,14888.45,155
+68,Wall Clock Model 68,Home,22229.13,23
+69,T-Shirt Model 69,Fashion,24673.36,101
+70,Backpack Model 70,Fashion,3385.51,165
+71,Wallet Model 71,Fashion,10578.92,159
+72,Sneakers Model 72,Fashion,17104.94,140
+73,Sunglasses Model 73,Fashion,23865.83,38
+74,Python Programming Book Model 74,Books,514.58,37
+75,SQL Guide Model 75,Books,442.47,75
+76,Data Science Handbook Model 76,Books,1090.73,35
+77,Novel Model 77,Books,23722.08,121
+78,Notebook Model 78,Books,12714.11,180
+79,Wireless Mouse Model 79,Electronics,17844.18,126
+80,Mechanical Keyboard Model 80,Electronics,10646.45,122
+81,Headphones Model 81,Electronics,2151.53,157
+82,Smart Watch Model 82,Electronics,13487.16,59
+83,Webcam Model 83,Electronics,7008.22,99
+84,Bluetooth Speaker Model 84,Electronics,2066.72,72
+85,USB-C Cable Model 85,Accessories,24360.38,59
+86,Laptop Stand Model 86,Accessories,13455.65,120
+87,Phone Case Model 87,Accessories,14701.87,186
+88,Power Bank Model 88,Accessories,17057.97,36
+89,Screen Protector Model 89,Accessories,7822.53,131
+90,Desk Lamp Model 90,Home,18275.69,81
+91,Water Bottle Model 91,Home,1540.92,42
+92,Storage Box Model 92,Home,23123.16,49
+93,Cushion Model 93,Home,11388.41,175
+94,Wall Clock Model 94,Home,1469.27,190
+95,T-Shirt Model 95,Fashion,18567.91,64
+96,Backpack Model 96,Fashion,3073.25,55
+97,Wallet Model 97,Fashion,17567.04,61
+98,Sneakers Model 98,Fashion,12460.18,108
+99,Sunglasses Model 99,Fashion,13122.36,86
+100,Python Programming Book Model 100,Books,4256.54,52
+101,SQL Guide Model 101,Books,18769.18,88
+102,Data Science Handbook Model 102,Books,18349.84,50
+103,Novel Model 103,Books,19308.39,27
+104,Notebook Model 104,Books,8441.11,129
+105,Wireless Mouse Model 105,Electronics,6871.59,36
+106,Mechanical Keyboard Model 106,Electronics,6646.71,167
+107,Headphones Model 107,Electronics,15725.2,147
+108,Smart Watch Model 108,Electronics,11433.88,112
+109,Webcam Model 109,Electronics,1479.49,165
+110,Bluetooth Speaker Model 110,Electronics,4254.51,60
+111,USB-C Cable Model 111,Accessories,6451.65,46
+112,Laptop Stand Model 112,Accessories,22367.18,192
+113,Phone Case Model 113,Accessories,18096.9,78
+114,Power Bank Model 114,Accessories,18545.16,20
+115,Screen Protector Model 115,Accessories,1195.59,23
+116,Desk Lamp Model 116,Home,6188.58,140
+117,Water Bottle Model 117,Home,9162.38,58
+118,Storage Box Model 118,Home,4555.31,29
+119,Cushion Model 119,Home,13865.89,187
+120,Wall Clock Model 120,Home,10541.72,102
+121,T-Shirt Model 121,Fashion,6281.0,101
+122,Backpack Model 122,Fashion,6853.59,39
+123,Wallet Model 123,Fashion,14330.82,50
+124,Sneakers Model 124,Fashion,12600.32,33
+125,Sunglasses Model 125,Fashion,4564.85,152
+126,Python Programming Book Model 126,Books,24537.19,122
+127,SQL Guide Model 127,Books,1815.34,139
+128,Data Science Handbook Model 128,Books,21664.07,99
+129,Novel Model 129,Books,8249.12,161
+130,Notebook Model 130,Books,11472.44,114
+131,Wireless Mouse Model 131,Electronics,5095.91,164
+132,Mechanical Keyboard Model 132,Electronics,19634.01,179
+133,Headphones Model 133,Electronics,6139.58,114
+134,Smart Watch Model 134,Electronics,14832.7,146
+135,Webcam Model 135,Electronics,24944.9,70
+136,Bluetooth Speaker Model 136,Electronics,18338.07,159
+137,USB-C Cable Model 137,Accessories,19035.77,82
+138,Laptop Stand Model 138,Accessories,3848.25,124
+139,Phone Case Model 139,Accessories,694.39,158
+140,Power Bank Model 140,Accessories,8725.3,197
+141,Screen Protector Model 141,Accessories,21942.12,105
+142,Desk Lamp Model 142,Home,135.41,188
+143,Water Bottle Model 143,Home,9468.62,98
+144,Storage Box Model 144,Home,2687.43,155
+145,Cushion Model 145,Home,24579.57,127
+146,Wall Clock Model 146,Home,12351.01,35
+147,T-Shirt Model 147,Fashion,24316.7,56
+148,Backpack Model 148,Fashion,17819.86,43
+149,Wallet Model 149,Fashion,1192.16,79
+150,Sneakers Model 150,Fashion,22442.36,153
